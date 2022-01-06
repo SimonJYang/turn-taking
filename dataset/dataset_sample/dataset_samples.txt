@@ -1,0 +1,38 @@
+
+Session1.wav
+["stime":"1617582032893", "etime":"1617582041265"] Q1：10公斤的洗衣机尺寸较大，需要您确认家门的宽度大于60cm，您看可以吗?\\The washing machine(10 kg) is large in size, you need to confirm that the width of the door is greater than 60cm, do you think it is okay?
+["stime":"1617582043393", "etime":"1617582046847"] A1：{门啊？\\the door?\\endpointing-hold}
+["stime":"1617582047156", "etime":"1617582055132"] Q2：一般家门的宽度都会大于60厘米，如果您家门不是特别小，我们还是先按计划给您配送，您看可以吗？\\Generally, the width of the door will be greater than 60 cm. If your door is not particularly small, we will deliver it to you as planned, is this ok?
+["stime":"1617582056933", "etime":"1617582058677"] A2：{嗯可以可以\\yes, it is ok\\endpointing-switch}
+["stime":"1617582058989", "etime":"1617582065332"] Q3：好的，您的地址是宜兴市芳桥镇后村村石兴组37号对吗？\\Okay, your address is No. 37, Shixing Group, Houcun Village, Fangqiao Town, Yixing City, right?
+["stime":"1617582060813", "etime":"1617582067917"] A3：{对\\yes\\barge-in-hold}; {嗯对对\\yes, it is right\\endpointing-switch}
+["stime":"1617582068310", "etime":"1617582072312"] Q4：计划4月6日，明天为您送货，您方便签收吗？\\We plan to deliver goods for you on April 6th. Is it convenient for you to sign for it?
+["stime":"1617582068774", "etime":"1617582076392"] A4：{方便方便可以的\\yes, It's convenient\\endpointing-switch}
+
+Session2.wav
+["stime":"1617588154424", "etime":"1617588160513"] Q1：10公斤的洗衣机尺寸较大，需要您确认家门的宽度大于60cm，您看可以吗?\\The washing machine(10 kg) is large in size, you need to confirm that the width of the door is greater than 60cm, do you think it is okay?
+["stime":"1617588155089", "etime":"1617588170588"] A1：{对呀\\yes\\barge-in-hold}; {洗衣机十公斤比较大，有吗？有60厘米吗?\\The washing machine is large. Does the door have 60 centimeters?\\endpointing-hold}
+["stime":"1617588170976", "etime":"1617588179653"] Q2：好的，您的地址是东兴市东兴镇广西东兴市东盟大道塞纳湖畔小区3栋303对吗？Okay, your address is 303, Building 3, Seine Lakeside Community, Asean Avenue, Dongxing City, Guangxi, Dongxing Town, Dongxing City, right?
+["stime":"1617588171219", "etime":"1617588182696"] A2：{怎么可能没有60厘米\\How could the width be less than 60 cm\\barge-in-switch}; {对对对\\yes,it is right \\barge-in-switch}; {对对对\\yes,it is right\\endpointing-switch}
+["stime":"1617588183096", "etime":"1617588187073"] Q3：计划4月6日，明天为您送货，您方便签收吗?\\We plan to deliver goods for you on April 6th. Is it convenient for you to sign for it?
+["stime":"1617588187469", "etime":"1617588191066"] A3：{明天没有星期六再送\\I don’t have time tomorrow, please send it on Saturday\\endpointing-switch}
+["stime":"1617588191446", "etime":"1617588202033"] Q1：抱歉，您修改的时间不在可配送日期范围内。我们支持为您配送的日期为4月6日到5月15日，您看需要修改到哪天送货呢？\\Sorry, the time you modified is not within the delivery date range. We support the delivery date for you from April 6th to May 15th. Which day is more suitable?
+["stime":"1617588193032", "etime":"1617588205166"] A3：{就是4月10号4月10号\\It's April 10th\\endpointing-switch}
+["stime":"1617588205525", "etime":"1617588211153"] Q4：好的，与您再次核对，您的需求送货时间是4月10日，周六，对吗？\\Okay, your requested delivery time is Saturday, April 10th, right?
+["stime":"1617588206802", "etime":"1617588207826"] A4：{嗯嗯\\yes\\barge-in-switch}; {对对对对对\\yes ,it is right\\endpointing-switch}
+
+Session3.wav
+["stime":"1617590599338", "etime":"1617590604194"] Q1：好的，您的地址是钦北区板城镇横街8号对吗？\\Okay, your address is No. 8 Heng Street, Bancheng Town, Qinbei District, right?
+["stime":"1617590601986", "etime":"1617590605730"] A1：{对\\noise\\barge-in-hold}; {对\\yes\\endpointing-switch}
+["stime":"1617590606144", "etime":"1617590610154"] Q2：计划4月7日，后天为您送货，您方便签收吗？\\We plan to deliver goods for you on April 7th. Is it convenient for you to sign for it?
+["stime":"1617590610920", "etime":"1617590613956"] A2：{后天吗\\the day after tomorrow?\\endpointing-hold}
+["stime":"1617590614355", "etime":"1617590619044"] Q3：好的，那计划4月7日，后天为您送货，您方便签收吗？\\OK, we plan to deliver goods on April 7th. Is it convenient for you to sign for it?
+["stime":"1617590614747", "etime":"1617590617460"] A3：{七号七号\\April 7\\barge-in-switch}; {七号之前的话就可以\\You can deliver it before April 7\\endpointing-switch}
+["stime":"1617590622745", "etime":"1617590626754"] Q4：计划4月7日，后天为您送货，您方便签收吗？\\we plan to deliver goods on April 7th. Is it convenient for you to sign for it? 
+["stime":"1617590623085", "etime":"1617590628990"] A4：{中午12点\\12 o'clock noon\\barge-in-switch}; {呃方便\\it is ok\\endpointing-switch}
+
+Session4.wav:
+["stime":"1617581053346", "etime":"1617581058812"] Q2：好的，您的地址是小榄镇金菊花园金涛楼3栋201室对吗？\\Okay, your address is Room 201, Building 3, Jintao Building, Jinju Garden, Xiaolan Town, right?
+["stime":"1617581059808", "etime":"1617581060862"] A2：{对\\yes\\endpointing-switch}
+["stime":"1617581061197", "etime":"1617581065172"] Q3：计划4月5日，今天为您送货，您方便签收吗？\\We plan to deliver goods for you on April 5th. Is it convenient for you to sign for it?
+["stime":"1617581063878", "etime":"1617581068735"] A3：{对\\Yes\\barge-in-switch}; {嗯\\but\\endpointing-hold}
